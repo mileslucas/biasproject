@@ -1,7 +1,10 @@
-# gcloud
+# Bias Project
 
-This is code made for the Engl 120 class taught by Dr. Sowmya Vajjala at Iowa State University. This program will take advantage of Google's cloud natural language API.
+This project provides the framework for analyzing the bias of the current US president at many different news sources.
 
 ## Prerequisites
+
+* Python >= 3.5
+* google-cloud-language
 
 ## Usage
